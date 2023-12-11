@@ -5,7 +5,15 @@
         "src": "src/seeds/seed1"
       }
     },
-    "visualizers": {},
+    "visualizers": {
+      "othello": {
+        "src": "panels/othello/othelloPanel",
+        "title": "othello",
+        "panel": "src/visualizers/panels/othello",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/othello"
+      }
+    },
     "plugins": {
       "auto": {
         "src": "src/plugins/auto",

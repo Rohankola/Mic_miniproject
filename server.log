@@ -1,0 +1,40 @@
+2023-12-11T08:20:03.448Z - info: [gme] Node version v18.19.0
+2023-12-11T08:20:03.449Z - info: [gme] Logfile [ info ] : /Users/Rohankola/myminiproject/server.log
+2023-12-11T08:20:03.449Z - info: [gme] Logfile [ error ] : /Users/Rohankola/myminiproject/server-error.log
+2023-12-11T08:20:03.468Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8080  http://10.74.245.236:8080  http://192.168.64.1:8080
+2023-12-11T08:20:03.641Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/Rohankola/myminiproject/blob-local-storage
+2023-12-11T08:20:03.645Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:20:03.682Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:20:04.026Z - info: [gme:server:standalone] Server is listening ...
+2023-12-11T08:24:45.379Z - info: [gme] Node version v18.19.0
+2023-12-11T08:24:45.380Z - info: [gme] Logfile [ info ] : /Users/Rohankola/myminiproject/server.log
+2023-12-11T08:24:45.380Z - info: [gme] Logfile [ error ] : /Users/Rohankola/myminiproject/server-error.log
+2023-12-11T08:24:45.402Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://10.74.245.236:8888  http://192.168.64.1:8888
+2023-12-11T08:24:45.633Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/Rohankola/myminiproject/blob-local-storage
+2023-12-11T08:24:45.637Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:24:45.682Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:24:46.073Z - info: [gme:server:standalone] Server is listening ...
+2023-12-11T08:25:59.143Z - info: [gme] Node version v17.9.1
+2023-12-11T08:25:59.144Z - info: [gme] Logfile [ info ] : /Users/Rohankola/myminiproject/server.log
+2023-12-11T08:25:59.144Z - info: [gme] Logfile [ error ] : /Users/Rohankola/myminiproject/server-error.log
+2023-12-11T08:25:59.163Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://10.74.245.236:8888  http://192.168.64.1:8888
+2023-12-11T08:25:59.396Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/Rohankola/myminiproject/blob-local-storage
+2023-12-11T08:25:59.406Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:25:59.462Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:25:59.881Z - info: [gme:server:standalone] Server is listening ...
+2023-12-11T08:26:40.753Z - info: [gme] Node version v19.9.0
+2023-12-11T08:26:40.754Z - info: [gme] Logfile [ info ] : /Users/Rohankola/myminiproject/server.log
+2023-12-11T08:26:40.754Z - info: [gme] Logfile [ error ] : /Users/Rohankola/myminiproject/server-error.log
+2023-12-11T08:26:40.773Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://10.74.245.236:8888  http://192.168.64.1:8888
+2023-12-11T08:26:41.066Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/Rohankola/myminiproject/blob-local-storage
+2023-12-11T08:26:41.073Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:26:41.139Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:26:41.561Z - info: [gme:server:standalone] Server is listening ...
+2023-12-11T08:27:16.652Z - info: [gme] Node version v20.10.0
+2023-12-11T08:27:16.653Z - info: [gme] Logfile [ info ] : /Users/Rohankola/myminiproject/server.log
+2023-12-11T08:27:16.653Z - info: [gme] Logfile [ error ] : /Users/Rohankola/myminiproject/server-error.log
+2023-12-11T08:27:16.672Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://10.74.245.236:8888  http://192.168.64.1:8888
+2023-12-11T08:27:16.894Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/Rohankola/myminiproject/blob-local-storage
+2023-12-11T08:27:16.899Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:27:16.934Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27018/woe
+2023-12-11T08:27:17.355Z - info: [gme:server:standalone] Server is listening ...

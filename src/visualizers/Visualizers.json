@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": "othello",
+    "title": "othello",
+    "panel": "panels/othello/othelloPanel",
+    "DEBUG_ONLY": false
+  }
+]
