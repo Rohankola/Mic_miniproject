@@ -1,0 +1,33 @@
+{
+  "components": {
+    "seeds": {
+      "seed1": {
+        "src": "src/seeds/seed1"
+      }
+    },
+    "visualizers": {},
+    "plugins": {
+      "auto": {
+        "src": "src/plugins/auto",
+        "test": "test/plugins/auto"
+      },
+      "undo": {
+        "src": "src/plugins/undo",
+        "test": "test/plugins/undo"
+      },
+      "highlight": {
+        "src": "src/plugins/highlight",
+        "test": "test/plugins/highlight"
+      },
+      "count": {
+        "src": "src/plugins/count",
+        "test": "test/plugins/count"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {},
+    "visualizers": {},
+    "plugins": {}
+  }
+}
